@@ -9,11 +9,7 @@
 ## 🚀 About Me
 
 - 🔭 **Currently:** Chemistry & STEM Teacher at **Thursina International Islamic Boarding School**
-- 🎓 **Education:**
-  - MA in Educational Technology — *Eötvös Loránd University (ELTE), Budapest*
-  - BA in Chemistry Education — *Universitas Negeri Malang, Indonesia*
 - 🔬 **Research Interests:** Computer-Adaptive Testing (CAT), Visual-Spatial Ability, and AI integration in STEAM education
-- 🌱 **Future Vision:** Aspiring PhD candidate at **JKU Linz**, focused on 3D printing and AI in STEM pedagogy
 
 ---
 
@@ -31,22 +27,11 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Arduino Colorimeter** | Measure absorbance using LED-LDR based on Beer-Lambert Law | [GitHub]([https://github.com/zainurrifaim](https://github.com/zainurrifaim/Arduino-Based-Colorimeter)) |
+| **Arduino Colorimeter** | Measure absorbance using LED-LDR based on Beer-Lambert Law | [Visit Site](https://github.com/zainurrifaim](https://github.com/zainurrifaim/Arduino-Based-Colorimeter) |
 | **LIFIN** | Interactive financial literacy platform for junior high students | [Visit Site](https://www.lifin.fun) |
 | **AiDurino** | AI-powered learning platform for Arduino and IoT beginners | [Visit Site](https://www.aidurino.site) |
 | **Fermio** | Intelligent AI assistant for academic research and interview analysis | [Visit Site](https://www.fermio.site) |
 | **Vocational STEAM** | A community-driven 3D maker platform for vocational skills | [Visit Site](https://www.steam-voc.site) |
-
----
-
-## 📊 Academic Background
-
-### MA in Educational Technology | Eötvös Loránd University
-- Focused on **Computer-Adaptive Testing (CAT)** and Systematic Literature Reviews
-- Analyzed creativity tasks using the **Torrance Test of Creative Thinking (TTCT)**
-
-### BA in Chemistry Education | Universitas Negeri Malang
-- Researched **Visual Spatial Ability** and its impact on stoichiometric problem-solving skills
 
 ---
 
