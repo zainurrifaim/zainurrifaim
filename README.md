@@ -27,7 +27,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Arduino Colorimeter** | Measure absorbance using LED-LDR based on Beer-Lambert Law | [Visit Site](https://github.com/zainurrifaim](https://github.com/zainurrifaim/Arduino-Based-Colorimeter) |
+| **Arduino Colorimeter** | Measure absorbance using LED-LDR based on Beer-Lambert Law | [Visit Site](https://github.com/zainurrifaim/Arduino-Based-Colorimeter) |
 | **LIFIN** | Interactive financial literacy platform for junior high students | [Visit Site](https://www.lifin.fun) |
 | **AiDurino** | AI-powered learning platform for Arduino and IoT beginners | [Visit Site](https://www.aidurino.site) |
 | **Fermio** | Intelligent AI assistant for academic research and interview analysis | [Visit Site](https://www.fermio.site) |
